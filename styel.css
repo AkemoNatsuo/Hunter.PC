@@ -1,0 +1,189 @@
+body{
+
+    margin: 0px;
+    font-family: Tahoma, sans-serif;
+}
+/* Add some content at the bottom of the video/page */
+.content {
+    bottom: 0;
+    background: rgb(156, 27, 199);
+    color: #f1f1f1;
+    width: 96.65%;
+    padding: 20px;
+}
+.img{
+    background-image: url("ісходники/photo_2023-11-26_16-37-41 (2).jpg");
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    width: 1255px;
+}
+.btn-group button {
+    background-color: #7c4caf; /* Green background */
+    border: 1px solid rgb(255, 255, 255); /* Green border */
+    color: rgb(0, 0, 0); /* White text */
+    padding: 10px 24px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    float: left; /* Float the buttons side by side */
+}
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.btn-group button:not(:last-child) {
+    border-right: none; /* Prevent double borders */
+}
+
+
+.btn-group button:hover {
+    background-color: #ffffff;
+}
+
+
+.kftm{
+
+    width: 550px;
+    height: 20px;
+}
+.pc1{
+background-color: rgb(114, 24, 139);
+border: 1px solid rgb(56, 29, 176);
+width: 190px;
+height: 430px;
+}
+.span1 {
+    display: inline-block;
+    transform: translate(0px, 0px);
+  }
+  .span2 {
+    display: inline-block;
+    transform: translate(207px, -476.5px);
+  }
+  .pc2{
+    background-color: rgb(114, 24, 139);
+    border: 1px solid rgb(56, 29, 176);
+    width: 223px;
+    height: 430px;
+    
+    
+    }
+.span3 {
+  display: inline-block;
+  transform: translate(202px, -509px);
+}
+.pc3{
+  background-color: rgb(114, 24, 139);
+  border: 1px solid rgb(56, 29, 176);
+  width: 237px;
+  height: 430px;
+  }
+  .span4 {
+    display: inline-block;
+    transform: translate(196px, -437.5px);
+  }
+  .pc4{
+    background-color: rgb(114, 24, 139);
+    border: 1px solid rgb(56, 29, 176);
+    width: 237px;
+    height: 430px;
+    }
+    .span5 {
+        display: inline-block;
+        transform: translate(190px, -472.5px);
+      }
+      .pc5{
+        background-color: rgb(114, 24, 139);
+        border: 1px solid rgb(56, 29, 176);
+        width: 237px;
+        height: 430px;
+        }
+        .pc5-1{
+            width: 95%;
+            height: 70%;
+        }
+        .span6 {
+            display: inline-block;
+            transform: translate(0px, -410px);
+          }
+          .pc6{
+            background-color: rgb(114, 24, 139);
+            border: 1px solid rgb(56, 29, 176);
+            width: 230px;
+            height: 430px;
+            }
+            .pc6-1{
+                width: 95%;
+                height: 70%;
+            }
+.spais1{
+    background-color: gray;
+height: 100px;
+width: 100%;
+display: inline-block;
+transform: translate(0px, -947px);   
+
+}
+.p-1{
+    transform: translate(300px, 0px);  
+
+}
+.span7 {
+    display: inline-block;
+    transform: translate(246px, -947px);
+  }
+  .pc7{
+    background-color: rgb(114, 24, 139);
+    border: 1px solid rgb(56, 29, 176);
+    width: 225px;
+    height: 430px;
+    }
+    .pc7-1{
+        width: 95%;
+        height: 70%;
+    }
+    .span8 {
+        display: inline-block;
+        transform: translate(240px, -947px);
+      }
+      .pc8{
+        background-color: rgb(114, 24, 139);
+        border: 1px solid rgb(56, 29, 176);
+        width: 225px;
+        height: 430px;
+        }
+        .pc8-1{
+            width: 95%;
+            height: 70%;
+        }
+            .span9 {
+        display: inline-block;
+        transform: translate(235px, -947px);
+      }
+      .pc9{
+        background-color: rgb(114, 24, 139);
+        border: 1px solid rgb(56, 29, 176);
+        width: 226px;
+        height: 430px;
+        }
+        .pc9-1{
+            width: 95%;
+            height: 70%;
+        }
+        .span10 {
+            display: inline-block;
+            transform: translate(231px, -947px);
+          }
+          .pc10{
+            background-color: rgb(114, 24, 139);
+            border: 1px solid rgb(56, 29, 176);
+            width: 222px;
+            height: 430px;
+            }
+            .pc10-1{
+                width: 95%;
+                height: 70%;
+            }
